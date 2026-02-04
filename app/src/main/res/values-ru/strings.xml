@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="name">Угрюмкина Дарья</string>
+    <string name="group">Студент группы Б23-191-1з</string>
+    <string name="email">Почта: kotovad2345@gmail.com</string>
+    <string name="phone">Телефон: +7 963 480 32 35</string>
+</resources>
