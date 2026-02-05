@@ -107,4 +107,4 @@ fun Info() {
     Text(text = stringResource(R.string.phone))
 
 }
-//laba1
+//lab1
